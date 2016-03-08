@@ -1,4 +1,4 @@
-﻿//#define FAIL_TEST
+﻿#define FAIL_TEST
 
 using System;
 using System.IO;
